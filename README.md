@@ -1,5 +1,5 @@
 <img src="https://iili.io/duatwl.png" alt="octocatbruna" border="0" align="left">
-<h1 align="center">Hi there, I'm Bruna! 👋</h1>
+<h2 align="center">Hi there, I'm Bruna! 👋</h1>
 
 #### 👩‍💻 I’m a web developer on the making, patiently building my education one brick at a time. So...🌱
 
