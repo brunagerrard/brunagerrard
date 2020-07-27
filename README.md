@@ -3,7 +3,7 @@
 
 #### 👩‍💻 I’m a web developer on the making, patiently building my education one brick at a time. So...🌱
 
-<img width="200px" src="https://media.giphy.com/media/DUrdT2xEmJWbS/giphy.gif" align="center">
+<img width="260px" src="https://media.giphy.com/media/DUrdT2xEmJWbS/giphy.gif" align="center">
 
 #### 📬 Here's how you can contact me:
 [![Linkedin Badge](https://img.shields.io/badge/-nolascobruna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nolascobruna/)](https://www.linkedin.com/in/nolascobruna/)
