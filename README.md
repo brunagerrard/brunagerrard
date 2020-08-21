@@ -1,7 +1,7 @@
 <img src="https://iili.io/duatwl.png" alt="octocatbruna" border="0" align="left">
 <h2 align="center">olá, mundo! 👋</h1>
 
-#### 👩‍💻 meu nome é bruna e eu gosto de escrever em minúsculas.
+#### 👩‍💻 meu nome é bruna e eu gosto de letras minúsculas.
 <p>sou uma desenvolvedora em formação. atualmente estudo desenvolvimento full-stack na pós-graduação do IGTI e exercito o front-end no bootcamp GamaXP.</p>
 
 #### 🖌️ alguns dos meus trabalhos:
