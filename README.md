@@ -6,7 +6,7 @@
 
 #### 🖌️ alguns dos meus trabalhos:
 - [landing page para captação de leads](https://vexinvest-beta.vercel.app/)
-- [landing page divulgação de live](https://representarte.vercel.app/)
+- [landing page divulgação de live](https://representarte.netlify.app/)
 - [dossiê do grupo Reconvexo (GamaXP)](https://dossie-reconvexo.vercel.app/)
 - [usando javascript: cálculo IMC](https://brunagerrard.github.io/calculo-imc/)
 - [uma ode ao LFC: meu 1º site responsivo](https://brunagerrard.github.io/lfceur/)
