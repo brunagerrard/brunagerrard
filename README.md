@@ -1,13 +1,10 @@
-<img src="https://iili.io/duatwl.png" alt="octocatbruna" border="0" align="left">
+<!-- <img src="https://iili.io/duatwl.png" alt="octocatbruna" border="0" align="left"> -->
 
-<h2 align="center">hello, world! 👋</h1>
+<h2 align="center">hello, world! 👋</h2>
 
-<p align="center">
-
-  [![Linkedin Badge](https://img.shields.io/badge/-nolascobruna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nolascobruna/)](https://www.linkedin.com/in/nolascobruna/)
-  [![Gmail Badge](https://img.shields.io/badge/-brunamnolasco-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunamnolasco@gmail.com)](mailto:brunamnolasco@gmail.com)
-
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nolascobruna/)](https://www.linkedin.com/in/nolascobruna/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511983641917&text=Olá!)](https://api.whatsapp.com/send?phone=5511983641917&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunamnolasco@gmail.com)](mailto:brunamnolasco@gmail.com)
 
 #### :brazil: meu nome é bruna e eu gosto de letras minúsculas.
 sou uma dev front-end em formação, entusiasta de JavaScript e React. atualmente estudo desenvolvimento full-stack na pós-graduação do IGTI.
