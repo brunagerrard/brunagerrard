@@ -1,11 +1,17 @@
 <img src="https://iili.io/duatwl.png" alt="octocatbruna" border="0" align="left">
 <h2 align="center">hello, world! 👋</h1>
 
-#### :brazil: 👩‍💻 meu nome é bruna e eu gosto de letras minúsculas.
-<p>sou uma dev front-end em formação, ávida por conhecimento e <em>team pĺayer</em> por natureza. sou uma entusiasta de JavaScript e no momento estou aprendendo na prática diária a construir SPAs utilizando React. atualmente estudo desenvolvimento full-stack na pós-graduação do IGTI.</p>
-
-#### :uk: 󠁧󠁢󠁥󠁮󠁧󠁿👩‍💻 i'm bruna and i really like lowercase letters.
-<p>a front-end developer padawan with a thirst for knowledge, i'm a team pĺayer by nature. i'm a JavaScript enthusiast, and right now building SPAs using React is my everyday exercise. i'm a post-graduate student of web development at IGTI (Institute of Management in IT).</p>
+<table border="0">
+  <tr>
+    <td><b>:brazil: meu nome é bruna e eu gosto de letras minúsculas.</b></td>
+    <td><b>:uk: 󠁧󠁢󠁥󠁮󠁧󠁿i'm bruna and i really like lowercase letters.
+</b></td>
+  </tr>
+  <tr>
+    <td>sou uma dev front-end em formação, entusiasta de JavaScript e React. atualmente estudo desenvolvimento full-stack na pós-graduação do IGTI.</td>
+    <td>a front-end developer padawan, i'm a JavaScript and ReactJS enthusiast studying web development at IGTI (Institute of Management in IT).</td>
+  </tr>
+</table>
 
 #### 📬 meus contatos / contact information:
 [![Linkedin Badge](https://img.shields.io/badge/-nolascobruna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nolascobruna/)](https://www.linkedin.com/in/nolascobruna/)
